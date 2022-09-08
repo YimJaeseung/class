@@ -1,2 +1,2 @@
 # class
-Writing in Markdown is _not_ that hard
+[**_Practice_**](www.google.com)
